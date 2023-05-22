@@ -1,0 +1,196 @@
+{
+    "Users": [
+        {
+            "username": "Bondan",
+            "email": "bondanherutomo35@gmail.com",
+            "password": "bondan123",
+            "role": "Admin",
+            "phoneNumber": "082111733373",
+            "address": "Depok Jawa barat"
+        },
+        {
+            "username": "Vivi",
+            "email": "vivialfianau@gmail.com",
+            "password": "vivi123",
+            "role": "Staff",
+            "phoneNumber": "082888700373",
+            "address": "Depok Jawa barat"
+        }
+    ],
+    "Jobs": [
+        {
+            "title": "Purchasing Staff",
+            "description": "Responsibilities:\nReceive purchase requests from users.\nAble to negotiate prices.\nCreate purchase order.\nMake sure the ordered goods come as requested.\nCreate documentation according to the applicable SOP.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/8fab484429da3904571abe6dcfda784217dd1450/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 2,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Media Buying Supervisor",
+            "description": "Responsibilities:\nCandidate must possess at least Bachelor's Degree in Business.\nAble to negotiate prices.\nPreferably Supervisor specialized in Marketing/Business Development or equivalent..\nCreate documentation according to the applicable SOP.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/523a9641b06447fe34902827e5f8d4f7e0147972/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 1,
+            "authorId": 2,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "We are looking for a skilled Frontend Developer to join our team. You will be responsible for developing and maintaining user interfaces for our web applications using modern frontend technologies and frameworks.",
+            "imgUrl": "https://ih1.redbubble.net/image.1070421901.8127/st,small,507x507-pad,600x600,f8f8f8.u2.jpg",
+            "companyId": 1,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Backend Developer",
+            "description": "We are seeking a Backend Developer to join our team. You will be responsible for developing and maintaining server-side logic, ensuring high performance and responsiveness to requests from the frontend. You will also be responsible for integrating the frontend elements built by your co-workers into the application.",
+            "imgUrl": "https://static-00.iconduck.com/assets.00/gojek-icon-512x512-dyy6mlv4.png",
+            "companyId": 3,
+            "authorId": 2,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Responsible for designing, developing, and testing software applications.",
+            "imgUrl": "https://static-00.iconduck.com/assets.00/gojek-icon-512x512-dyy6mlv4.png",
+            "companyId": 3,
+            "authorId": 2,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Marketing Coordinator",
+            "description": "Responsible for assisting with marketing campaigns, developing marketing materials, and coordinating events.",
+            "imgUrl": "https://cdn.freebiesupply.com/logos/large/2x/lg-electronics-logo-png-transparent.png",
+            "companyId": 4,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Data Analyst",
+            "description": "Responsible for analyzing and interpreting complex data sets and communicating insights to stakeholders.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/523a9641b06447fe34902827e5f8d4f7e0147972/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 1,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Graphic Designer",
+            "description": "Responsible for creating visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/8fab484429da3904571abe6dcfda784217dd1450/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 2,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Sales Representative",
+            "description": "Responsible for selling products or services to customers, negotiating prices, and managing customer relationships.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/8fab484429da3904571abe6dcfda784217dd1450/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 2,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Human Resources Manager",
+            "description": "Responsible for overseeing the hiring and management of employees, developing policies and procedures, and ensuring compliance with labor laws.",
+            "imgUrl": "https://cdn.freebiesupply.com/logos/large/2x/lg-electronics-logo-png-transparent.png",
+            "companyId": 4,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Content Writer",
+            "description": "Responsible for creating written content for websites, social media, and other digital platforms.",
+            "imgUrl": "https://cdn.freebiesupply.com/logos/large/2x/lg-electronics-logo-png-transparent.png",
+            "companyId": 4,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Data Entry Specialist",
+            "description": "We are looking for a meticulous Data Entry Specialist to join our team. You will be responsible for accurately inputting and managing large amounts of data, ensuring that all information is up-to-date and error-free.",
+            "imgUrl": "https://static-00.iconduck.com/assets.00/gojek-icon-512x512-dyy6mlv4.png",
+            "companyId": 3,
+            "authorId": 2,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Human Resources Manager",
+            "description": "We are seeking an experienced Human Resources Manager to oversee all aspects of our HR operations. You will be responsible for recruiting and hiring new employees, managing employee benefits and compensation, and ensuring compliance with all HR laws and regulations.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/523a9641b06447fe34902827e5f8d4f7e0147972/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 1,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Financial Analyst",
+            "description": "We are seeking a skilled Financial Analyst to join our team. You will be responsible for analyzing financial data, preparing financial reports, and providing insights and recommendations to help our company make informed business decisions.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/8fab484429da3904571abe6dcfda784217dd1450/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 2,
+            "authorId": 2,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Web Developer",
+            "description": "We are looking for a talented Web Developer to join our team. You will be responsible for developing and maintaining our company's website, ensuring that it is user-friendly, responsive, and visually appealing.",
+            "imgUrl": "https://image-service-cdn.seek.com.au/523a9641b06447fe34902827e5f8d4f7e0147972/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "companyId": 1,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        },
+        {
+            "title": "Operations Manager",
+            "description": "We are seeking an experienced Operations Manager to oversee our company's day-to-day operations. You will be responsible for managing production, logistics, and supply chain activities, as well as developing and implementing process improvements to increase efficiency and profitability.",
+            "imgUrl": "https://static-00.iconduck.com/assets.00/gojek-icon-512x512-dyy6mlv4.png",
+            "companyId": 3,
+            "authorId": 1,
+            "jobType": "Full Time",
+            "status": "Active"
+        }
+    ],
+    "Companies": [
+        {
+            "name": "PT Perindustrian Bapak Djenggot (Orang Tua Group)",
+            "companyLogo": "https://image-service-cdn.seek.com.au/523a9641b06447fe34902827e5f8d4f7e0147972/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "location": "Jakarta Barat",
+            "email": "orangtua@gmail.com",
+            "description": "OT adalah perusahaan consumer goods yang memproduksi berbagai macam produk kebutuhan sehari-hari"
+        },
+        {
+            "name": "PT Tirta Alam Segar",
+            "companyLogo": "https://image-service-cdn.seek.com.au/8fab484429da3904571abe6dcfda784217dd1450/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "location": "Bekasi",
+            "email": "tirtaalamsegar@gmail.com",
+            "description": "WINGS Group is one of the largest and most established consumer goods manufacturer in Indonesia focusing in laundry, household, personal care, and Food & Beverage products"
+        },
+        {
+            "name": "PT Gojek Indonesia",
+            "companyLogo": "https://static-00.iconduck.com/assets.00/gojek-icon-512x512-dyy6mlv4.png",
+            "location": "Jakarta Selatan",
+            "email": "info@ptgojek.com",
+            "description": "PT Gojek Indonesia adalah perusahaan yang bergerak di bidang teknologi informasi dan menawarkan berbagai solusi digital."
+        },
+        {
+            "name": "PT LG Electronics Indonesia",
+            "companyLogo": "https://cdn.freebiesupply.com/logos/large/2x/lg-electronics-logo-png-transparent.png",
+            "location": "Bandung",
+            "email": "info@ptlg.com",
+            "description": "PT LG Electronics Indonesia adalah perusahaan manufaktur yang memproduksi berbagai jenis produk elektronik."
+        }
+    ]
+}

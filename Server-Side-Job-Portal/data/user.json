@@ -1,0 +1,20 @@
+{
+    "Users": [
+        {
+            "username": "Bondan",
+            "email": "bondanherutomo35@gmail.com",
+            "password": "bondan123",
+            "role": "Admin",
+            "phoneNumber": "082111733373",
+            "address": "Depok Jawa barat"
+        },
+        {
+            "username": "Vivi",
+            "email": "vivialfianau@gmail.com",
+            "password": "vivi123",
+            "role": "Staff",
+            "phoneNumber": "082888700373",
+            "address": "Depok Jawa barat"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Companies": [
+        {
+            "name": "PT Perindustrian Bapak Djenggot (Orang Tua Group)",
+            "companyLogo": "https://image-service-cdn.seek.com.au/523a9641b06447fe34902827e5f8d4f7e0147972/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "location": "Jakarta Barat",
+            "email": "orangtua@gmail.com",
+            "description": "OT adalah perusahaan consumer goods yang memproduksi berbagai macam produk kebutuhan sehari-hari"
+        },
+        {
+            "name": "PT Tirta Alam Segar",
+            "companyLogo": "https://image-service-cdn.seek.com.au/8fab484429da3904571abe6dcfda784217dd1450/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+            "location": "Bekasi",
+            "email": "tirtaalamsegar@gmail.com",
+            "description": "WINGS Group is one of the largest and most established consumer goods manufacturer in Indonesia focusing in laundry, household, personal care, and Food & Beverage products"
+        },
+        {
+            "name": "PT Gojek Indonesia",
+            "companyLogo": "https://static-00.iconduck.com/assets.00/gojek-icon-512x512-dyy6mlv4.png",
+            "location": "Jakarta Selatan",
+            "email": "info@ptgojek.com",
+            "description": "PT Gojek Indonesia adalah perusahaan yang bergerak di bidang teknologi informasi dan menawarkan berbagai solusi digital."
+        },
+        {
+            "name": "PT LG Electronics Indonesia",
+            "companyLogo": "https://cdn.freebiesupply.com/logos/large/2x/lg-electronics-logo-png-transparent.png",
+            "location": "Bandung",
+            "email": "info@ptlg.com",
+            "description": "PT LG Electronics Indonesia adalah perusahaan manufaktur yang memproduksi berbagai jenis produk elektronik."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Customers": [
+        {
+            "email": "bondanherutomo35@gmail.com",
+            "password": "bondan123",
+            "role": "Customer"
+        },
+        {
+            "email": "vivialfianau@gmail.com",
+            "password": "vivi123",
+            "role": "Customer"
+        }
+    ]
+}
